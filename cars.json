@@ -3,7 +3,7 @@
         "id": 1,
         "preco": "R$ 300.000,00",
         "bateria": "300 kWh",
-        "pontecia": "200cv",
+        "potencia": "200cv",
         "recarga": "30 min",
         "urlPhoto": "https://raw.githubusercontent.com/henrique-molinos/cars-api/main/img/electric_car.png"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "preco": "R$ 200.000,00",
         "bateria": "230 kWh",
-        "pontecia": "100cv",
+        "potencia": "100cv",
         "recarga": "20 min",
         "urlPhoto": "https://raw.githubusercontent.com/henrique-molinos/cars-api/main/img/electric_car.png"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "preco": "R$ 554.000,00",
         "bateria": "430 kWh",
-        "pontecia": "400cv",
+        "potencia": "400cv",
         "recarga": "60 min",
         "urlPhoto": "https://raw.githubusercontent.com/henrique-molinos/cars-api/main/img/electric_car.png"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "preco": "R$ 323.000,00",
         "bateria": "130 kWh",
-        "pontecia": "200cv",
+        "potencia": "200cv",
         "recarga": "50 min",
         "urlPhoto": "https://raw.githubusercontent.com/henrique-molinos/cars-api/main/img/electric_car.png"
     }
