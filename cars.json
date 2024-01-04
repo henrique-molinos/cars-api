@@ -11,7 +11,7 @@
         "id": 2,
         "preco": "R$ 200.000,00",
         "bateria": "230 kWh",
-        "potencia": "100cv",
+        "potencia": "115cv",
         "recarga": "20 min",
         "urlPhoto": "https://raw.githubusercontent.com/henrique-molinos/cars-api/main/img/electric_car.png"
     },
